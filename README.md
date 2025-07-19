@@ -30,3 +30,10 @@ Uses SUP bitmap subtitles instead of the newer IMSC subtitles
 Displays all audio tracks and subtitles
 
 Disable checks for Netflix Household
+
+# Instructions
+In your browser (Edge, Firefox, Chrome), download and install the violentmonkey extension. You can go here https://github.com/Violentmonkey/Violentmonkey
+
+Now, refresh the webpage and press this link https://update.greasyfork.org/scripts/478739/Netflix%20Plus.user.js then select install.
+
+After installing refresh the netfix webpage and enjoy streaming.
